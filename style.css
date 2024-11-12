@@ -1,0 +1,25 @@
+
+
+.jumbotron {
+  padding-top: 8rem;
+    background-color: rgb(163, 245, 248);
+	
+}
+#project {
+    background-color: rgb(163, 245, 248);
+
+}
+.footer {
+    background-color: cadetblue;
+   
+}
+section {
+    padding-top: 4rem;
+	
+}
+
+h1 {
+    color : rebeccapurple;
+    font-family : sans-serif ; 
+    font-style: italic;
+}
